@@ -15,6 +15,9 @@
 		3EBF489023AEA39F00DE8136 /* ExtensionDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBF488F23AEA39F00DE8136 /* ExtensionDelegate.swift */; };
 		3EBF489223AEA39F00DE8136 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBF489123AEA39F00DE8136 /* NotificationController.swift */; };
 		3EBF489423AEA3A000DE8136 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EBF489323AEA3A000DE8136 /* Assets.xcassets */; };
+		3EBF48A623AED84100DE8136 /* omni_aliens_masks2 in Resources */ = {isa = PBXBuildFile; fileRef = 3EBF48A423AED84000DE8136 /* omni_aliens_masks2 */; };
+		3EBF48A723AED84100DE8136 /* aliens in Resources */ = {isa = PBXBuildFile; fileRef = 3EBF48A523AED84100DE8136 /* aliens */; };
+		3EBF48A923AF76D000DE8136 /* sounds in Resources */ = {isa = PBXBuildFile; fileRef = 3EBF48A823AF76D000DE8136 /* sounds */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,6 +75,9 @@
 		3EBF489323AEA3A000DE8136 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3EBF489523AEA3A000DE8136 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EBF489623AEA3A000DE8136 /* PushNotificationPayload.apns */ = {isa = PBXFileReference; lastKnownFileType = text; path = PushNotificationPayload.apns; sourceTree = "<group>"; };
+		3EBF48A423AED84000DE8136 /* omni_aliens_masks2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = omni_aliens_masks2; sourceTree = "<group>"; };
+		3EBF48A523AED84100DE8136 /* aliens */ = {isa = PBXFileReference; lastKnownFileType = folder; path = aliens; sourceTree = "<group>"; };
+		3EBF48A823AF76D000DE8136 /* sounds */ = {isa = PBXFileReference; lastKnownFileType = folder; path = sounds; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,7 +123,10 @@
 		3EBF488C23AEA39F00DE8136 /* Omnitrix WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
+				3EBF48A823AF76D000DE8136 /* sounds */,
 				3EBF488D23AEA39F00DE8136 /* InterfaceController.swift */,
+				3EBF48A523AED84100DE8136 /* aliens */,
+				3EBF48A423AED84000DE8136 /* omni_aliens_masks2 */,
 				3EBF488F23AEA39F00DE8136 /* ExtensionDelegate.swift */,
 				3EBF489123AEA39F00DE8136 /* NotificationController.swift */,
 				3EBF489323AEA3A000DE8136 /* Assets.xcassets */,
@@ -243,6 +252,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3EBF48A723AED84100DE8136 /* aliens in Resources */,
+				3EBF48A623AED84100DE8136 /* omni_aliens_masks2 in Resources */,
+				3EBF48A923AF76D000DE8136 /* sounds in Resources */,
 				3EBF489423AEA3A000DE8136 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
