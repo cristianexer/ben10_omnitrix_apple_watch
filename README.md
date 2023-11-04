@@ -1,22 +1,25 @@
-## Omnitrix App for Apple Watch (tested on Apple Watch 3)
+# Omnitrix Application for Apple Watch (Tested on Apple Watch 3)
 
-The apple plays some sounds effects from Ben 10
+The Omnitrix app for Apple Watch, meticulously tested on Apple Watch 3, offers a unique experience inspired by the iconic Ben 10 series.
 
-You can use the crown to pick up an alien and tap to see the unmasked alien
+**Key Features:**
+- The application incorporates immersive sound effects from the Ben 10 universe, enhancing user engagement.
+
+- Utilize the Apple Watch crown to navigate and select different aliens, and tap to reveal the unmasked form of the chosen alien.
 
 ![Omnitrix](./markdown_images/omni.png)
 
 ![Home](./markdown_images/home.png)
 
+**Functionality:**
+- The app operates independently of the iPhone, providing a seamless and standalone experience on the Apple Watch. However, a paired device is required for project building.
 
-### It works independent of the iPhone, but you need a paired device to build the project
+- Python scripts for image crawling and formatting are available in the project repository, catering to users interested in exploring the technical aspects of the application.
 
-### You can alos find the python scritps for image crawling and image formating (the messy version)
+# Disclaimer
+This project, crafted for recreational purposes, does not possess any copyright or licensing for the images and sound effects derived from the Ben 10 series. Users are encouraged to leverage the diamond shape and the central Omnitrix design for their own creative endeavors.
 
-# This project was just for fun, I do not have any copyright or license for the (aliens and sound effects)images and the sound. 
+**Usage Permissions:**
+- All components of this project, excluding copyrighted materials, are open for unrestricted use. Feel free to incorporate any elements into your own projects while respecting intellectual property rights.
 
-However you can use the diamond shape and the main omnitrix.
-
-
-## You can use everything you want from this project
-
+Effort vs Gain Perspective: **This project serves as a creative outlet without infringing on copyright, allowing users to explore and enjoy the world of Ben 10 on their Apple Watch. Maximize value by leveraging available resources responsibly.**
